@@ -1,0 +1,7 @@
+streamlit
+numpy
+matplotlib
+
+'''
+streamlit run pathfinding_app.py
+'''
